@@ -1,6 +1,6 @@
 {
     "geode": "3.0.0-alpha.2",
-    "gd": "2.206",
+    "gd": {"win":"2.206"},
     "version": "v2.1.0-alpha.2",
     "id": "cgytrus.menu-shaders",
     "name": "Menu Shaders",
