@@ -1,7 +1,7 @@
 {
-    "geode": "3.0.0-alpha.2",
+    "geode": "3.0.0-beta.1",
     "gd": {"win":"2.206"},
-    "version": "v2.1.0-alpha.2",
+    "version": "v2.1.0-beta.1",
     "id": "cgytrus.menu-shaders",
     "name": "Menu Shaders",
     "developer": "mat & ConfiG & Naxrin",
